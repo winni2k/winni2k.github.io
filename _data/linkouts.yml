@@ -1,0 +1,20 @@
+- name: Contact
+  items:
+  - name: Email
+    link: mailto:winni@warrenwk.com
+  - name: Twitter
+    link: 'https://twitter.com/wkretzsch'
+- name: Code
+  items:
+  - name: Bitbucket
+    link: 'https://bitbucket.org/wkretzsch'
+  - name: Github
+    link: 'https://github.com/winni2k'
+- name: Profiles
+  items:
+  - name: Scholar
+    link: 'http://scholar.google.co.uk/citations?user=P05nYjkAAAAJ&hl=en'
+  - name: LinkedIn
+    link: 'http://uk.linkedin.com/in/wkretzsch'
+  - name: ORCID
+    link: 'https://orcid.org/0000-0002-2575-0807'

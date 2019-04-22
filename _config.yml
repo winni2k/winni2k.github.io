@@ -1,0 +1,16 @@
+title: Warren W. Kretzschmar
+author: winni2k
+email: winni@warrenwk.com
+theme: minima
+description: Personal website of Warren W. Kretzschmar
+
+
+twitter_username: wkretzsch
+github_username: winni2k
+linkedin_username: wkretzsch
+bitbucket_username: wkretzsch
+scholar_username: 'P05nYjkAAAAJ'
+orcid_username: '0000-0002-2575-0807'
+
+plugins:
+  - jekyll-seo-tag

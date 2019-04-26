@@ -36,7 +36,7 @@ GLPhase is a CUDA-enabled haplotype phasing and imputation tool for tens of thou
 
 ## hapfuse
 
-[Hapfuse](https://bitbucket.org/wkretzsch/hapfuse/overview) is a fast haplotype ligation tool designed primarily to work with haplotypes in [Binary Call Format](http://samtools.github.io/hts-specs/BCFv1_qref.pdf), although other formats are supported. Hapfuse is an extension of the hapfuse code written by Yi Wang for the [SNPTools package](https://www.hgsc.bcm.edu/software/snptools). Hapfuse hase been used to ligate haplotypes phased in overlapping blocks in conjunction with [GLPhase](https://doi.org/10.1038/ng.3643) and with [SHAPEIT3](https://biobank.ctsu.ox.ac.uk/crystal/docs/impute_ukb_v1.pdf).
+[Hapfuse](https://bitbucket.org/wkretzsch/hapfuse/overview) is a fast haplotype ligation tool designed primarily to work with haplotypes in [Binary Call Format](http://samtools.github.io/hts-specs/BCFv1_qref.pdf), although other formats are supported. Hapfuse is an extension of the hapfuse code written by Yi Wang for the [SNPTools package](https://www.hgsc.bcm.edu/software/snptools). Hapfuse has been used to ligate haplotypes phased in overlapping blocks in conjunction with [GLPhase](https://doi.org/10.1038/ng.3643) and with [SHAPEIT3](https://biobank.ctsu.ox.ac.uk/crystal/docs/impute_ukb_v1.pdf).
 
 ## DistributedMake
 

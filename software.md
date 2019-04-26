@@ -19,11 +19,11 @@ title: Software
 
 [Dmpy](https://github.com/kvg/dmpy) is a port of [DistributedMake](.#DistributedMake) to python. It's friendlier on the eyes than DistributedMake...
 
+_Where have all the semi-colons gone?_
 ```python
 from dmpy import DistributedMake, get_dm_arg_parser
 
-args = get_dm_arg_parser().parse_args()
-m = DistributedMake(args_object=args)
+m = DistributedMake(args_object=get_dm_arg_parser().parse_args())
 
 m.add("test_output_file", None, "echo 'hi world'")
 m.execute()

@@ -7,7 +7,7 @@ title: Software
 
 ## cortexpy
 
-[Cortexpy](https://github.com/winni2k/cortexpy) is a python package for inspecting, traversing, and manipulating colored and linked De Bruijn graphs in [Cortex](https://github.com/iqbal-lab/cortex)/[Mccortex](https://github.com/mcveanlab/mccortex) format. A special thanks to Kiran V Garimella who was instrumental in helping me get this project off the ground and for laying the groundwork with his own Cortex library [CortexJDK](https://github.com/mcveanlab/CortexJDK).
+[Cortexpy](https://github.com/winni2k/cortexpy) is a python package for inspecting, traversing, and manipulating colored and linked De Bruijn graphs in [Cortex](https://github.com/iqbal-lab/cortex)/[Mccortex](https://github.com/mcveanlab/mccortex) format. A special thanks to [Kiran V Garimella](https://github.com/kvg) who was instrumental in helping me get this project off the ground and for laying the groundwork with his own Cortex library [CortexJDK](https://github.com/mcveanlab/CortexJDK).
 
 ## Visual cortex
 
@@ -17,7 +17,17 @@ title: Software
 
 ## dmpy
 
-[Dmpy](https://github.com/kvg/dmpy) is a domain-specific language for writing GNU Make files from inside python. It is a port of the perl package [DistributedMake]()
+[Dmpy](https://github.com/kvg/dmpy) is a port of [DistributedMake](.#DistributedMake) to python. It's friendlier on the eyes than DistributedMake...
+
+```python
+from dmpy import DistributedMake, get_dm_arg_parser
+
+args = get_dm_arg_parser().parse_args()
+m = DistributedMake(args_object=args)
+
+m.add("test_output_file", None, "echo 'hi world'")
+m.execute()
+```
 
 ## GLPhase
 

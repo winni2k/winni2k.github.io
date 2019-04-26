@@ -11,7 +11,7 @@ title: Software
 
 ## Visual cortex
 
-[Visual cortex](https://github.com/winni2k/visual_cortex) is a collection of HTML, CSS, and JavaScript that I use to visualize small, multi-color transcript De Bruijn graphs that I create using cortexpy. 
+[Visual cortex](https://github.com/winni2k/visual_cortex) is a collection of HTML, CSS, and JavaScript that I use to visualize small, multi-color transcript De Bruijn graphs that I create using [cortexpy](.#cortexpy). 
 
 ![a_visual_cortex_example](https://www.frontiersin.org/files/Articles/408314/fpls-09-01625-HTML/image_m/fpls-09-01625-g002.jpg)
 

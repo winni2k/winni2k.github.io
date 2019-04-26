@@ -34,6 +34,10 @@ m.execute()
 
 GLPhase is a CUDA-enabled haplotype phasing and imputation tool for tens of thousands of low coverage sequencing samples.  GLPhase was developed for the [Haplotype Reference Consortium](http://www.haplotype-reference-consortium.org/).  The GLPhase source code is available [here](https://github.com/winni2k/GLPhase), and our paper describing the method is available [here](https://doi.org/10.1038/ng.3643).
 
+## hapfuse
+
+[Hapfuse](https://bitbucket.org/wkretzsch/hapfuse/overview) is a fast haplotype ligation tool designed primarily to work with haplotypes in [Binary Call Format](http://samtools.github.io/hts-specs/BCFv1_qref.pdf), although other formats are supported. Hapfuse is an extension of the hapfuse code written by Yi Wang for the [SNPTools package](https://www.hgsc.bcm.edu/software/snptools). Hapfuse hase been used to ligate haplotypes phased in overlapping blocks in conjunction with [GLPhase](https://doi.org/10.1038/ng.3643) and with [SHAPEIT3](https://biobank.ctsu.ox.ac.uk/crystal/docs/impute_ukb_v1.pdf).
+
 ## DistributedMake
 
 [DistributedMake](https://github.com/winni2k/DM) is a domain-specific language for writing GNU Make files from inside perl. First created by Kiran V Garimella during his first tour at the Broad Institute, it was further developed by Kiran and me during our time at the Wellcome Trust Centre for Human Genetics. 

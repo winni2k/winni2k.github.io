@@ -27,7 +27,7 @@ GLPhase is a CUDA-enabled haplotype phasing and imputation tool for tens of thou
 
 [DistributedMake](https://github.com/winni2k/DM) is a domain-specific language for writing GNU Make files from inside perl. First created by Kiran V Garimella during his first tour at the Broad Institute, it was further developed by Kiran and me during our time at the Wellcome Trust Centre for Human Genetics. 
 
-_Long live the semi-colon_
+_Long live the semi-colon ..._
 ```perl
 #!/usr/bin/env perl -w
 use strict;

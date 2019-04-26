@@ -35,7 +35,11 @@ GLPhase is a CUDA-enabled haplotype phasing and imputation tool for tens of thou
     my $dm = DM->new(@args);    
     
     for my $val (1..100){
-        $dm->addRule("hello_world_$val", "", "echo $val; sleep 5; echo ".($val + 100)."; touch hello_world_$val");
+        $dm->addRule(
+            "hello_world_$val",
+            "",
+            "echo $val; sleep 5; echo ".($val + 100)."; touch hello_world_$val"
+        );
     }
     $dm->execute();
     {% endhighlight %}

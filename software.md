@@ -4,7 +4,7 @@ title: Software
 ## abeona
 
 [Abeona]() is an experimental transcriptome assembler based on the [cortexpy](./software.md#cortexpy) library and [kallisto](https://pachterlab.github.io/kallisto/). In [this paper](https://doi.org/10.3389/fpls.2018.01625) we use abeona to reconstruct and 
-[visualize](.#Visual-cortex) transcript isoforms of DAL19 in Norway spruce.
+[visualize](./software.md#Visual_cortex) transcript isoforms of DAL19 in Norway spruce.
 
 ## cortexpy
 
@@ -12,13 +12,13 @@ title: Software
 
 ## Visual cortex
 
-[Visual cortex](https://github.com/winni2k/visual_cortex) is a collection of HTML, CSS, and JavaScript that I use to visualize small, multi-color transcript De Bruijn graphs that I create using [cortexpy](.#cortexpy). 
+[Visual cortex](https://github.com/winni2k/visual_cortex) is a collection of HTML, CSS, and JavaScript that I use to visualize small, multi-color transcript De Bruijn graphs that I create using [cortexpy](./software.md#cortexpy). 
 
 ![a_visual_cortex_example](https://www.frontiersin.org/files/Articles/408314/fpls-09-01625-HTML/image_m/fpls-09-01625-g002.jpg)
 
 ## dmpy
 
-[Dmpy](https://github.com/kvg/dmpy) is a python port of [DistributedMake](.#DistributedMake). It's friendlier on the eyes than DistributedMake...
+[Dmpy](https://github.com/kvg/dmpy) is a python port of [DistributedMake](./software.md#DistributedMake). It's friendlier on the eyes than DistributedMake...
 
 _Where have all the semi-colons gone?_
 ```python

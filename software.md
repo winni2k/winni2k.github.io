@@ -17,7 +17,7 @@ title: Software
 
 ## dmpy
 
-[Dmpy](https://github.com/kvg/dmpy) is a port of [DistributedMake](.#DistributedMake) to python. It's friendlier on the eyes than DistributedMake...
+[Dmpy](https://github.com/kvg/dmpy) is a python port of [DistributedMake](.#DistributedMake). It's friendlier on the eyes than DistributedMake...
 
 _Where have all the semi-colons gone?_
 ```python

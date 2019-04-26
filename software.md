@@ -27,19 +27,20 @@ GLPhase is a CUDA-enabled haplotype phasing and imputation tool for tens of thou
 
 [DistributedMake](https://github.com/winni2k/DM) is a domain-specific language for writing GNU Make files from inside perl. First created by Kiran V Garimella during his first tour at the Broad Institute, it was further developed by Kiran and me during our time at the Wellcome Trust Centre for Human Genetics. 
 
-    {% highlight perl %}
-    #!/usr/bin/env perl -w
-    use strict;
-    use DM;
-    my @args = (dryRun => 0, numJobs=>100, engineName => 'localhost');
-    my $dm = DM->new(@args);    
-    
-    for my $val (1..100){
-        $dm->addRule(
-            "hello_world_$val",
-            "",
-            "echo $val; sleep 5; echo ".($val + 100)."; touch hello_world_$val"
-        );
-    }
-    $dm->execute();
-    {% endhighlight %}
+```perl
+#!/usr/bin/env perl -w
+use strict;
+use DM;
+my @args = (dryRun => 0, numJobs=>100, engineName => 'localhost');
+my $dm = DM->new(@args);    
+
+for my $val (1..100){
+    $dm->addRule(
+        "hello_world_$val",
+        "",
+        "echo $val; sleep 5; echo ".($val + 100)."; touch hello_world_$val"
+    );
+}
+$dm->execute();
+```
+_Long live the semi-colon..._

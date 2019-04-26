@@ -3,7 +3,7 @@ title: Software
 ---
 ## abeona
 
-[Abeona]() is an experimental transcriptome assembler based on the [cortexpy](.#Cortexpy) library and [kallisto](https://pachterlab.github.io/kallisto/). In [this paper](https://doi.org/10.3389/fpls.2018.01625) we use abeona to reconstruct and 
+[Abeona]() is an experimental transcriptome assembler based on the [cortexpy](./software.md#cortexpy) library and [kallisto](https://pachterlab.github.io/kallisto/). In [this paper](https://doi.org/10.3389/fpls.2018.01625) we use abeona to reconstruct and 
 [visualize](.#Visual-cortex) transcript isoforms of DAL19 in Norway spruce.
 
 ## cortexpy

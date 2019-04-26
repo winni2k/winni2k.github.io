@@ -10,7 +10,7 @@ title: Software
 
 [Cortexpy](https://github.com/winni2k/cortexpy) is a python package for inspecting, traversing, and manipulating colored and linked De Bruijn graphs in [Cortex](https://github.com/iqbal-lab/cortex)/[Mccortex](https://github.com/mcveanlab/mccortex) format. A special thanks to [Kiran V Garimella](https://github.com/kvg) who was instrumental in helping me get this project off the ground and for laying the groundwork with his own Cortex library [CortexJDK](https://github.com/mcveanlab/CortexJDK).
 
-## Visual cortex
+## Visual Cortex
 
 [Visual cortex](https://github.com/winni2k/visual_cortex) is a collection of HTML, CSS, and JavaScript that I use to visualize small, multi-color transcript De Bruijn graphs that I create using [cortexpy](./software.md#cortexpy). 
 

@@ -104,9 +104,9 @@ yelp:
 orcid:
   name: "ORCID"
   baseURL: "https://orcid.org/"
-  icon: "fab researchgate"
+  icon: "fab fa-researchgate"
 
 scholar:
   name: "Scholar"
   baseURL: "https://scholar.google.se/citations?user="
-  icon: "fa scroll"
+  icon: "fas fa-scroll"

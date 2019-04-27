@@ -1,6 +1,8 @@
-![Winni carrying a bottle](/assets/img/bottle.jpeg "Winni carrying a bottle"){: .center}
+---
+title: Warren W. Kretzschmar
+---
 
-<i class="fa fa-space-shuttle"></i>
+![Winni carrying a bottle](/assets/img/bottle.jpeg "Winni carrying a bottle"){: .img-responsive .center-block}
 
 I am a post-doctoral researcher in [Olof Emanuelsson's group](https://www.scilifelab.se/researchers/olof-emanuelsson/) at the [SciLifeLab](https://www.scilifelab.se/) where I develop statistical methods for transcriptome assembly and allele-specific expression in Norway spruce.
 

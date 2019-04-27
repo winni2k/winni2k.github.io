@@ -1,16 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+![Winni carrying a bottle](/assets/img/bottle.jpeg "Winni carrying a bottle"){: .img-responsive .center-block}
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am a post-doctoral researcher in [Olof Emanuelsson's group](https://www.scilifelab.se/researchers/olof-emanuelsson/) at the [SciLifeLab](https://www.scilifelab.se/) where I develop statistical methods for transcriptome assembly and allele-specific expression in Norway spruce.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My DPhil work in the [Marchini Group](https://jmarchini.org/) at the University of Oxford focused on creating statistical methods for haplotype phasing and genotype imputation that scale well with sample size.  I also applied these methods to large human sequencing projects such as the [CONVERGE](http://www.well.ox.ac.uk/converge) and [Haplotype Reference](http://www.haplotype-reference-consortium.org/) consortia.

@@ -14,7 +14,9 @@ title: Software
 
 [Visual cortex](https://github.com/winni2k/visual_cortex) is a collection of HTML, CSS, and JavaScript that I use to visualize small, multi-color transcript De Bruijn graphs that I create using [cortexpy](./software.md#cortexpy). 
 
-![a_visual_cortex_example](https://www.frontiersin.org/files/Articles/408314/fpls-09-01625-HTML/image_m/fpls-09-01625-g002.jpg)
+<a href="https://www.frontiersin.org/articles/10.3389/fpls.2018.01625/full#F2">
+    <img src="/assets/img/visual_cortex.jpg" alt="a_visual_cortex_example">
+</a>
 
 ## dmpy
 

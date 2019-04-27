@@ -9,4 +9,4 @@ I am a post-doctoral researcher in [Olof Emanuelsson's group](https://www.scilif
 
 My DPhil work in the [Marchini Group](https://jmarchini.org/) at the University of Oxford focused on creating statistical methods for haplotype phasing and genotype imputation that scale well with sample size.  I also applied these methods to large human sequencing projects such as the [CONVERGE](http://www.well.ox.ac.uk/converge) and [Haplotype Reference](http://www.haplotype-reference-consortium.org/) consortia.
 
-In my spare time I sing with [Stockholms Studentsångare](http://sssf.se/) and orienteer with Stockholm's [Centrtum OK](http://www.centrumok.se/).
+In my spare time I sing with [Stockholms Studentsångare](http://sssf.se/) and orienteer with Stockholm's [Centrum OK](http://www.centrumok.se/).

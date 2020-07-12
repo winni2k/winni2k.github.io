@@ -1,6 +1,8 @@
 ---
 layout: page
 subtitle: Of DNA and RNA analysis
+use-site-title: true
+bigimg: /assets/img/brunnsviken.jpg
 ---
 
 ![brunnsviken_in_winter](/assets/img/brunnsviken.jpg "Brunnsviken in winter"){: .img-responsive .center-block}

@@ -5,8 +5,6 @@ use-site-title: true
 bigimg: /assets/img/brunnsviken.jpg
 ---
 
-![brunnsviken_in_winter](/assets/img/brunnsviken.jpg "Brunnsviken in winter"){: .img-responsive .center-block}
-
 I am a post-doctoral researcher in [Sten Eirik Jacobsen's](https://ki.se/en/medh/sten-eirik-w-jacobsen-lab-hematopoietic-stem-cell-biology-group) group where I develop statistical methods to investigate hematopoiesis through phylogenetic inference.
 
 Previously, I was a post-doctoral researcher in [Olof Emanuelsson's group](https://www.scilifelab.se/researchers/olof-emanuelsson/) at the [SciLifeLab](https://www.scilifelab.se/) where I developed statistical methods for transcriptome assembly and allele-specific expression in Norway spruce.

@@ -30,7 +30,6 @@ description: Of DNA and RNA sequence analysis
 
 # List of links in the navigation bar
 navbar-links:
-  About me: "aboutme"
   Software: "software"
 
 # Image to show in the navigation bar - image must be a square (width = height)

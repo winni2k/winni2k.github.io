@@ -3,6 +3,10 @@ layout: page
 title: Software
 subtitle: All things big and small
 ---
+# streaming_pileupy
+
+[streaming_pileupy](https://pypi.org/project/streaming-pileupy/) implements a [missing `samtools mpileup` feature](https://github.com/samtools/samtools/issues/599#issuecomment-604941884). It allows the creation of text-based pileups from SAM files containing multiple samples in a sample-aware manner using the `SM` tag of the read-group identifier (`@RG`).
+
 # abeona
 
 [Abeona](https://github.com/winni2k/abeona) is an experimental transcriptome assembler based on the [cortexpy](./software.md#cortexpy) library and [kallisto](https://pachterlab.github.io/kallisto/). In [this paper](https://doi.org/10.3389/fpls.2018.01625) we use abeona to reconstruct and 

@@ -3,6 +3,9 @@ layout: page
 title: Software
 subtitle: All things big and small
 ---
+
+*A complete listing of my open-source software can be found on my [GitHub page](https://github.com/winni2k).*
+
 # streaming_pileupy
 
 [streaming_pileupy](https://pypi.org/project/streaming-pileupy/) implements a [missing `samtools mpileup` feature](https://github.com/samtools/samtools/issues/599#issuecomment-604941884). It allows the creation of text-based pileups from SAM files containing multiple samples in a sample-aware manner using the `SM` tag of the read-group identifier (`@RG`).
